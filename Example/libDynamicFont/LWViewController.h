@@ -7,7 +7,15 @@
 //
 
 @import UIKit;
+#import "LWAppDelegate.h"
 
 @interface LWViewController : UIViewController
+
+@end
+
+
+#pragma mark - AppDelegate LoadFonts
+
+@interface LWAppDelegate (LWLoadFonts)
 
 @end

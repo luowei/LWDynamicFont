@@ -5,9 +5,10 @@ platform :ios, '8.0'
 target 'libDynamicFont_Example' do
   pod 'libDynamicFont', :path => '../'
 
-  target 'libDynamicFont_Tests' do
-    inherit! :search_paths
+  pod 'libProgressView', :git => 'https://gitlab.com/luo-wei/libProgressView.git', :branch => 'master'
 
-    
-  end
+  # target 'libDynamicFont_Tests' do
+  #   inherit! :search_paths
+  # end
+
 end

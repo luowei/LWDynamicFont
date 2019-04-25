@@ -1,0 +1,38 @@
+PODS:
+  - CircleProgressBar (0.32)
+  - libDynamicFont (1.0)
+  - libProgressView (1.0):
+    - CircleProgressBar
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - libDynamicFont (from `../`)
+  - libProgressView (from `https://gitlab.com/luo-wei/libProgressView.git`, branch `master`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CircleProgressBar
+    - Masonry
+
+EXTERNAL SOURCES:
+  libDynamicFont:
+    :path: "../"
+  libProgressView:
+    :branch: master
+    :git: https://gitlab.com/luo-wei/libProgressView.git
+
+CHECKOUT OPTIONS:
+  libProgressView:
+    :commit: 3667a863dcb33489485cf17b766eeaeaf851d929
+    :git: https://gitlab.com/luo-wei/libProgressView.git
+
+SPEC CHECKSUMS:
+  CircleProgressBar: 3920079be5224b62b3d9ed6eeb23ac01c835b681
+  libDynamicFont: 228dcafc0a88e8c060e27a87570d24b4fe1d5032
+  libProgressView: 17ed47077dc8214391f417aeaa0e10a4f099f32b
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 8175b5961049d702ec82a63c75efab530b58f1d5
+
+COCOAPODS: 1.5.3

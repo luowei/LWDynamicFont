@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="whP-gf-Uak">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="whP-gf-Uak">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
@@ -20,8 +20,47 @@
                     <view key="view" contentMode="scaleToFill" id="TpU-gO-2f1">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Uo4-np-5Lg" userLabel="btn1">
+                                <rect key="frame" x="129" y="155.5" width="117" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Hello! 你好！"/>
+                                <connections>
+                                    <action selector="btnAction:" destination="whP-gf-Uak" eventType="touchUpInside" id="Oaw-KW-gbj"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4so-Or-CtS" userLabel="btn2">
+                                <rect key="frame" x="129" y="243.5" width="117" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Hello! 你好！"/>
+                                <connections>
+                                    <action selector="btnAction:" destination="whP-gf-Uak" eventType="touchUpInside" id="ll9-UJ-sXa"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wRQ-5S-wTn" userLabel="btn3">
+                                <rect key="frame" x="129" y="337.5" width="117" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Hello! 你好！"/>
+                                <connections>
+                                    <action selector="btnAction:" destination="whP-gf-Uak" eventType="touchUpInside" id="18J-Bi-k4M"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="wRQ-5S-wTn" firstAttribute="top" secondItem="4so-Or-CtS" secondAttribute="bottom" constant="58" id="NER-55-vVp"/>
+                            <constraint firstItem="Uo4-np-5Lg" firstAttribute="centerX" secondItem="TpU-gO-2f1" secondAttribute="centerX" id="TCu-V1-evd"/>
+                            <constraint firstItem="4so-Or-CtS" firstAttribute="centerX" secondItem="TpU-gO-2f1" secondAttribute="centerX" id="aX2-Ug-3cK"/>
+                            <constraint firstItem="wRQ-5S-wTn" firstAttribute="centerX" secondItem="TpU-gO-2f1" secondAttribute="centerX" id="klb-00-ulj"/>
+                            <constraint firstItem="4so-Or-CtS" firstAttribute="top" secondItem="Uo4-np-5Lg" secondAttribute="bottom" constant="52" id="tZK-fS-gi8"/>
+                            <constraint firstItem="Uo4-np-5Lg" firstAttribute="centerY" secondItem="TpU-gO-2f1" secondAttribute="centerY" constant="-160" id="vDU-xu-2NU"/>
+                        </constraints>
                     </view>
+                    <connections>
+                        <outlet property="btn1" destination="Uo4-np-5Lg" id="aBd-0g-B5p"/>
+                        <outlet property="btn2" destination="4so-Or-CtS" id="wnD-Oe-wim"/>
+                        <outlet property="btn3" destination="wRQ-5S-wTn" id="9Gt-2X-Vfp"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tc2-Qw-aMS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
