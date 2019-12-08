@@ -1,9 +1,9 @@
-# libDynamicFont
+# LWDynamicFont
 
-[![CI Status](https://img.shields.io/travis/luowei/libDynamicFont.svg?style=flat)](https://travis-ci.org/luowei/libDynamicFont)
-[![Version](https://img.shields.io/cocoapods/v/libDynamicFont.svg?style=flat)](https://cocoapods.org/pods/libDynamicFont)
-[![License](https://img.shields.io/cocoapods/l/libDynamicFont.svg?style=flat)](https://cocoapods.org/pods/libDynamicFont)
-[![Platform](https://img.shields.io/cocoapods/p/libDynamicFont.svg?style=flat)](https://cocoapods.org/pods/libDynamicFont)
+[![CI Status](https://img.shields.io/travis/luowei/LWDynamicFont.svg?style=flat)](https://travis-ci.org/luowei/LWDynamicFont)
+[![Version](https://img.shields.io/cocoapods/v/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
+[![License](https://img.shields.io/cocoapods/l/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
+[![Platform](https://img.shields.io/cocoapods/p/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
 
 ## Example
 
@@ -13,11 +13,11 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-libDynamicFont is available through [CocoaPods](https://cocoapods.org). To install
+LWDynamicFont is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'libDynamicFont'
+pod 'LWDynamicFont'
 ```
 
 ## Author
@@ -26,4 +26,4 @@ luowei, luowei@wodedata.com
 
 ## License
 
-libDynamicFont is available under the MIT license. See the LICENSE file for more info.
+LWDynamicFont is available under the MIT license. See the LICENSE file for more info.

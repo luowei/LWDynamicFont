@@ -1,6 +1,6 @@
 //
 //  LWViewController.h
-//  libDynamicFont
+//  LWDynamicFont
 //
 //  Created by luowei on 04/25/2019.
 //  Copyright (c) 2019 luowei. All rights reserved.

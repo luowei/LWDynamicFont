@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		318CF3A372EAD9BA039C7EC1 /* Pods_libDynamicFont_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 49E89763E09AA0BADD58DFA0 /* Pods_libDynamicFont_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
 		6003F592195388D20070C39A /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F591195388D20070C39A /* UIKit.framework */; };
@@ -16,34 +15,37 @@
 		6003F59E195388D20070C39A /* LWAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F59D195388D20070C39A /* LWAppDelegate.m */; };
 		6003F5A7195388D20070C39A /* LWViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5A6195388D20070C39A /* LWViewController.m */; };
 		6003F5A9195388D20070C39A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6003F5A8195388D20070C39A /* Images.xcassets */; };
+		6409583F980D8EC7628705E7 /* Pods_LWDynamicFont_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 179D36389A2922D7BC9894F7 /* Pods_LWDynamicFont_Example.framework */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		179D36389A2922D7BC9894F7 /* Pods_LWDynamicFont_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LWDynamicFont_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		24B228B65EA04F1B80720F32 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		364F1754DBB121FDB8849784 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		49E89763E09AA0BADD58DFA0 /* Pods_libDynamicFont_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_libDynamicFont_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5C9F2780FE19726E45F98DD9 /* Pods-libDynamicFont_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libDynamicFont_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-libDynamicFont_Example/Pods-libDynamicFont_Example.release.xcconfig"; sourceTree = "<group>"; };
-		6003F58A195388D20070C39A /* libDynamicFont_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = libDynamicFont_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5C9F2780FE19726E45F98DD9 /* Pods-LWDynamicFont_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWDynamicFont_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example.release.xcconfig"; sourceTree = "<group>"; };
+		6003F58A195388D20070C39A /* LWDynamicFont_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LWDynamicFont_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		6003F591195388D20070C39A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		6003F595195388D20070C39A /* libDynamicFont-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "libDynamicFont-Info.plist"; sourceTree = "<group>"; };
+		6003F595195388D20070C39A /* LWDynamicFont-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LWDynamicFont-Info.plist"; sourceTree = "<group>"; };
 		6003F597195388D20070C39A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6003F599195388D20070C39A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		6003F59B195388D20070C39A /* libDynamicFont-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "libDynamicFont-Prefix.pch"; sourceTree = "<group>"; };
+		6003F59B195388D20070C39A /* LWDynamicFont-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LWDynamicFont-Prefix.pch"; sourceTree = "<group>"; };
 		6003F59C195388D20070C39A /* LWAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LWAppDelegate.h; sourceTree = "<group>"; };
 		6003F59D195388D20070C39A /* LWAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LWAppDelegate.m; sourceTree = "<group>"; };
 		6003F5A5195388D20070C39A /* LWViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LWViewController.h; sourceTree = "<group>"; };
 		6003F5A6195388D20070C39A /* LWViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LWViewController.m; sourceTree = "<group>"; };
 		6003F5A8195388D20070C39A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6003F5AF195388D20070C39A /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		6D1E80B6EB2123B1EF9FD10D /* Pods-LWDynamicFont_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWDynamicFont_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7945D893B6C53C6A91D66FBA /* Pods_libDynamicFont_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_libDynamicFont_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7945D893B6C53C6A91D66FBA /* Pods_LWDynamicFont_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LWDynamicFont_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		C8C76B7C6ED4BF5DAC6697CB /* libDynamicFont.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = libDynamicFont.podspec; path = ../libDynamicFont.podspec; sourceTree = "<group>"; };
-		E7C73E2310150B5F3FAA9DE5 /* Pods-libDynamicFont_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-libDynamicFont_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-libDynamicFont_Example/Pods-libDynamicFont_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		A81BFC5A529A60C31828B733 /* Pods-LWDynamicFont_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWDynamicFont_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		C8C76B7C6ED4BF5DAC6697CB /* LWDynamicFont.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LWDynamicFont.podspec; path = ../LWDynamicFont.podspec; sourceTree = "<group>"; };
+		E7C73E2310150B5F3FAA9DE5 /* Pods-LWDynamicFont_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LWDynamicFont_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +56,7 @@
 				6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */,
 				6003F592195388D20070C39A /* UIKit.framework in Frameworks */,
 				6003F58E195388D20070C39A /* Foundation.framework in Frameworks */,
-				318CF3A372EAD9BA039C7EC1 /* Pods_libDynamicFont_Example.framework in Frameworks */,
+				6409583F980D8EC7628705E7 /* Pods_LWDynamicFont_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,7 +67,7 @@
 			isa = PBXGroup;
 			children = (
 				60FF7A9C1954A5C5007DD14C /* Podspec Metadata */,
-				6003F593195388D20070C39A /* Example for libDynamicFont */,
+				6003F593195388D20070C39A /* Example for LWDynamicFont */,
 				6003F58C195388D20070C39A /* Frameworks */,
 				6003F58B195388D20070C39A /* Products */,
 				6A05C047D34A9F24216F92C7 /* Pods */,
@@ -75,7 +77,7 @@
 		6003F58B195388D20070C39A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6003F58A195388D20070C39A /* libDynamicFont_Example.app */,
+				6003F58A195388D20070C39A /* LWDynamicFont_Example.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -87,13 +89,13 @@
 				6003F58F195388D20070C39A /* CoreGraphics.framework */,
 				6003F591195388D20070C39A /* UIKit.framework */,
 				6003F5AF195388D20070C39A /* XCTest.framework */,
-				49E89763E09AA0BADD58DFA0 /* Pods_libDynamicFont_Example.framework */,
-				7945D893B6C53C6A91D66FBA /* Pods_libDynamicFont_Tests.framework */,
+				7945D893B6C53C6A91D66FBA /* Pods_LWDynamicFont_Tests.framework */,
+				179D36389A2922D7BC9894F7 /* Pods_LWDynamicFont_Example.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		6003F593195388D20070C39A /* Example for libDynamicFont */ = {
+		6003F593195388D20070C39A /* Example for LWDynamicFont */ = {
 			isa = PBXGroup;
 			children = (
 				6003F59C195388D20070C39A /* LWAppDelegate.h */,
@@ -105,17 +107,17 @@
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
 			);
-			name = "Example for libDynamicFont";
-			path = libDynamicFont;
+			name = "Example for LWDynamicFont";
+			path = LWDynamicFont;
 			sourceTree = "<group>";
 		};
 		6003F594195388D20070C39A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				6003F595195388D20070C39A /* libDynamicFont-Info.plist */,
+				6003F595195388D20070C39A /* LWDynamicFont-Info.plist */,
 				6003F596195388D20070C39A /* InfoPlist.strings */,
 				6003F599195388D20070C39A /* main.m */,
-				6003F59B195388D20070C39A /* libDynamicFont-Prefix.pch */,
+				6003F59B195388D20070C39A /* LWDynamicFont-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -123,7 +125,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				C8C76B7C6ED4BF5DAC6697CB /* libDynamicFont.podspec */,
+				C8C76B7C6ED4BF5DAC6697CB /* LWDynamicFont.podspec */,
 				364F1754DBB121FDB8849784 /* README.md */,
 				24B228B65EA04F1B80720F32 /* LICENSE */,
 			);
@@ -133,8 +135,10 @@
 		6A05C047D34A9F24216F92C7 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E7C73E2310150B5F3FAA9DE5 /* Pods-libDynamicFont_Example.debug.xcconfig */,
-				5C9F2780FE19726E45F98DD9 /* Pods-libDynamicFont_Example.release.xcconfig */,
+				E7C73E2310150B5F3FAA9DE5 /* Pods-LWDynamicFont_Example.debug.xcconfig */,
+				5C9F2780FE19726E45F98DD9 /* Pods-LWDynamicFont_Example.release.xcconfig */,
+				A81BFC5A529A60C31828B733 /* Pods-LWDynamicFont_Example.debug.xcconfig */,
+				6D1E80B6EB2123B1EF9FD10D /* Pods-LWDynamicFont_Example.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -142,9 +146,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6003F589195388D20070C39A /* libDynamicFont_Example */ = {
+		6003F589195388D20070C39A /* LWDynamicFont_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "libDynamicFont_Example" */;
+			buildConfigurationList = 6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "LWDynamicFont_Example" */;
 			buildPhases = (
 				BD61A7A696C6793CE3CAE967 /* [CP] Check Pods Manifest.lock */,
 				6003F586195388D20070C39A /* Sources */,
@@ -156,9 +160,9 @@
 			);
 			dependencies = (
 			);
-			name = libDynamicFont_Example;
-			productName = libDynamicFont;
-			productReference = 6003F58A195388D20070C39A /* libDynamicFont_Example.app */;
+			name = LWDynamicFont_Example;
+			productName = LWDynamicFont;
+			productReference = 6003F58A195388D20070C39A /* LWDynamicFont_Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -176,11 +180,12 @@
 					};
 				};
 			};
-			buildConfigurationList = 6003F585195388D10070C39A /* Build configuration list for PBXProject "libDynamicFont" */;
+			buildConfigurationList = 6003F585195388D10070C39A /* Build configuration list for PBXProject "LWDynamicFont" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -189,7 +194,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6003F589195388D20070C39A /* libDynamicFont_Example */,
+				6003F589195388D20070C39A /* LWDynamicFont_Example */,
 			);
 		};
 /* End PBXProject section */
@@ -214,27 +219,23 @@
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputFileListPaths = (
-			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-libDynamicFont_Example/Pods-libDynamicFont_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/CircleProgressBar/CircleProgressBar.framework",
+				"${BUILT_PRODUCTS_DIR}/LWDynamicFont/LWDynamicFont.framework",
+				"${BUILT_PRODUCTS_DIR}/LWProgressView/LWProgressView.framework",
 				"${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework",
-				"${BUILT_PRODUCTS_DIR}/libDynamicFont/libDynamicFont.framework",
-				"${BUILT_PRODUCTS_DIR}/libProgressView/libProgressView.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-			);
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/CircleProgressBar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LWDynamicFont.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/LWProgressView.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Masonry.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libDynamicFont.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/libProgressView.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-libDynamicFont_Example/Pods-libDynamicFont_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-LWDynamicFont_Example/Pods-LWDynamicFont_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		BD61A7A696C6793CE3CAE967 /* [CP] Check Pods Manifest.lock */ = {
@@ -252,7 +253,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-libDynamicFont_Example-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-LWDynamicFont_Example-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -369,15 +370,15 @@
 		};
 		6003F5C0195388D20070C39A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E7C73E2310150B5F3FAA9DE5 /* Pods-libDynamicFont_Example.debug.xcconfig */;
+			baseConfigurationReference = A81BFC5A529A60C31828B733 /* Pods-LWDynamicFont_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = G3A2KYKYBU;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "libDynamicFont/libDynamicFont-Prefix.pch";
-				INFOPLIST_FILE = "libDynamicFont/libDynamicFont-Info.plist";
+				GCC_PREFIX_HEADER = "LWDynamicFont/LWDynamicFont-Prefix.pch";
+				INFOPLIST_FILE = "LWDynamicFont/LWDynamicFont-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.libDynamicFont-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.LWDynamicFont-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -385,15 +386,15 @@
 		};
 		6003F5C1195388D20070C39A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5C9F2780FE19726E45F98DD9 /* Pods-libDynamicFont_Example.release.xcconfig */;
+			baseConfigurationReference = 6D1E80B6EB2123B1EF9FD10D /* Pods-LWDynamicFont_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = G3A2KYKYBU;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "libDynamicFont/libDynamicFont-Prefix.pch";
-				INFOPLIST_FILE = "libDynamicFont/libDynamicFont-Info.plist";
+				GCC_PREFIX_HEADER = "LWDynamicFont/LWDynamicFont-Prefix.pch";
+				INFOPLIST_FILE = "LWDynamicFont/LWDynamicFont-Info.plist";
 				MODULE_NAME = ExampleApp;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.libDynamicFont-Example";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.wodedata.LWDynamicFont-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -402,7 +403,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6003F585195388D10070C39A /* Build configuration list for PBXProject "libDynamicFont" */ = {
+		6003F585195388D10070C39A /* Build configuration list for PBXProject "LWDynamicFont" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6003F5BD195388D20070C39A /* Debug */,
@@ -411,7 +412,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "libDynamicFont_Example" */ = {
+		6003F5BF195388D20070C39A /* Build configuration list for PBXNativeTarget "LWDynamicFont_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6003F5C0195388D20070C39A /* Debug */,

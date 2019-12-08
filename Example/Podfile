@@ -2,12 +2,12 @@ use_frameworks!
 
 platform :ios, '8.0'
 
-target 'libDynamicFont_Example' do
-  pod 'libDynamicFont', :path => '../'
+target 'LWDynamicFont_Example' do
+  pod 'LWDynamicFont', :path => '../'
 
-  pod 'libProgressView', :git => 'https://gitlab.com/luo-wei/libProgressView.git', :branch => 'master'
+  pod 'LWProgressView', :git => 'https://gitlab.com/ioslibraries1/libprogressview.git', :branch => 'master'
 
-  # target 'libDynamicFont_Tests' do
+  # target 'LWDynamicFont_Tests' do
   #   inherit! :search_paths
   # end
 

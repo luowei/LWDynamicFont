@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint libDynamicFont.podspec' to ensure this is a
+# Be sure to run `pod lib lint LWDynamicFont.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'libDynamicFont'
+  s.name             = 'LWDynamicFont'
   s.version          = '1.0'
-  s.summary          = 'A short description of libDynamicFont.'
+  s.summary          = 'A short description of LWDynamicFont.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,19 +21,19 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/luowei/libDynamicFont'
+  s.homepage         = 'https://github.com/luowei/LWDynamicFont'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luowei' => 'luowei@wodedata.com' }
-  s.source           = { :git => 'https://github.com/luowei/libDynamicFont.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/luowei/LWDynamicFont.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'libDynamicFont/Classes/**/*'
+  s.source_files = 'LWDynamicFont/Classes/**/*'
   
   # s.resource_bundles = {
-  #   'libDynamicFont' => ['libDynamicFont/Assets/*.png']
+  #   'LWDynamicFont' => ['LWDynamicFont/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
