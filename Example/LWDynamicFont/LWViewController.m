@@ -27,10 +27,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 
-    self.btn1.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
-    self.btn2.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
-    self.btn3.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
-
     self.fontURLMap = @{
             @"LiuJiang-Cao-1.0": @"http://oss.wodedata.com/Fonts/%E9%92%9F%E9%BD%90%E6%B5%81%E6%B1%9F%E7%A1%AC%E7%AC%94%E8%8D%89%E4%BD%93.ttf",
             @"AnJingCheng-Xing-2.0": @"http://oss.wodedata.com/Fonts/%E9%92%9F%E9%BD%90%E5%AE%89%E6%99%AF%E8%87%A3%E7%A1%AC%E7%AC%94%E8%A1%8C%E4%B9%A6.ttf",
@@ -39,6 +35,10 @@
             @"YuppySC-Regular": @"http://oss.wodedata.com/Fonts/%E9%9B%85%E7%97%9E.otf",
             @"MicrosoftYaHei": @"http://oss.wodedata.com/Fonts/%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91.ttf"
     };
+
+    self.btn1.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
+    self.btn2.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
+    self.btn3.titleLabel.font = [UIFont fontWithName:[self randomFontName] size:20];
 
 }
 
