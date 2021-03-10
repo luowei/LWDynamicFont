@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'LWDynamicFont'
   s.version          = '1.0.0'
-  s.summary          = 'A short description of LWDynamicFont.'
+  s.summary          = '一个支持从服务器端动态下载字体加载字体的字体加载器.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,15 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+LWDynamicFont,字体动态加载器，支持从服务器端动态下载字体，并即时加载到当前的App里直接使用。
                        DESC
 
-  s.homepage         = 'https://gitlab.com/ioslibraries1/libdynamicfont.git'
+  s.homepage         = 'https://github.com/luowei/LWDynamicFont.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'luowei' => 'luowei@wodedata.com' }
-  s.source           = { :git => 'https://gitlab.com/ioslibraries1/libdynamicfont.git' }
+  s.source           = { :git => 'https://github.com/luowei/LWDynamicFont.git'}
+  # s.source           = { :git => 'https://gitlab.com/ioslibraries1/libdynamicfont.git' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
