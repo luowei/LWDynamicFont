@@ -20,6 +20,11 @@ it, simply add the following line to your Podfile:
 pod 'LWDynamicFont'
 ```
 
+**Carthage**
+```ruby
+github "luowei/LWDrawboard"
+```
+
 ## Author
 
 luowei, luowei@wodedata.com
