@@ -9,6 +9,27 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
+```Objective-C
+if (![LWFontManager isAvaliableFont:fontName]) {  //如果字体不可用
+    //todo: something
+    
+    //下载字体
+    [LWFontManager downloadCustomFontWithFontName:fontName URLString:vc.fontURLMap[fontName]
+                                showProgressBlock:^{
+                                    Log(@"=====开始下载字体");
+                                }
+                              updateProgressBlock:^(float progress) {
+                                  Log(@"======字体下载：%f", progress);
+                              }
+                                    completeBlock:^{
+                                        Log(@"======字体下载完成");
+                                    }];
+
+    return;
+}
+
+```
+
 ## Requirements
 
 ## Installation
