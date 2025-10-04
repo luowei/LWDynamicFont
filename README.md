@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
 [![Platform](https://img.shields.io/cocoapods/p/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
 
-[English](./README.md) | [中文版](./README_ZH.md)
+[English](./README.md) | [中文版](./README_ZH.md) | [Swift Version](./README_SWIFT_VERSION.md)
 
 ---
 

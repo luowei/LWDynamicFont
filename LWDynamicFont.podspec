@@ -32,6 +32,7 @@ LWDynamicFont,字体动态加载器，支持从服务器端动态下载字体，
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'LWDynamicFont/Classes/**/*'
+  s.exclude_files = 'LWDynamicFont/Classes/**/*.swift'
   
   # s.resource_bundles = {
   #   'LWDynamicFont' => ['LWDynamicFont/Assets/*.png']
