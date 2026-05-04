@@ -1,0 +1,2030 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "LWFontDownloadTask.swift",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L1",
+      "id": "lwdynamicfont_swift_classes_lwfontdownloadtask_swift",
+      "community": 8,
+      "norm_label": "lwfontdownloadtask.swift"
+    },
+    {
+      "label": "LWFontDownloadTask",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L12",
+      "id": "classes_lwfontdownloadtask_lwfontdownloadtask",
+      "community": 8,
+      "norm_label": "lwfontdownloadtask"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "nsobject",
+      "community": 8,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L26",
+      "id": "classes_lwfontdownloadtask_lwfontdownloadtask_init",
+      "community": 8,
+      "norm_label": ".init()"
+    },
+    {
+      "label": "LWFontManager.swift",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L1",
+      "id": "lwdynamicfont_swift_classes_lwfontmanager_swift",
+      "community": 3,
+      "norm_label": "lwfontmanager.swift"
+    },
+    {
+      "label": "LWFLog()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L14",
+      "id": "classes_lwfontmanager_lwflog",
+      "community": 3,
+      "norm_label": "lwflog()"
+    },
+    {
+      "label": "LWFontManager",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L9",
+      "id": "classes_lwfontmanager_lwfontmanager",
+      "community": 0,
+      "norm_label": "lwfontmanager"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L56",
+      "id": "classes_lwfontmanager_lwfontmanager_init",
+      "community": 0,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".isAvailable()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L69",
+      "id": "classes_lwfontmanager_lwfontmanager_isavailable",
+      "community": 7,
+      "norm_label": ".isavailable()"
+    },
+    {
+      "label": ".removeFile()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L75",
+      "id": "classes_lwfontmanager_lwfontmanager_removefile",
+      "community": 3,
+      "norm_label": ".removefile()"
+    },
+    {
+      "label": ".writeData()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L87",
+      "id": "classes_lwfontmanager_lwfontmanager_writedata",
+      "community": 3,
+      "norm_label": ".writedata()"
+    },
+    {
+      "label": ".createDirectory()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L100",
+      "id": "classes_lwfontmanager_lwfontmanager_createdirectory",
+      "community": 3,
+      "norm_label": ".createdirectory()"
+    },
+    {
+      "label": "-registerAllCustomLocalFonts",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L306",
+      "id": "classes_lwfontmanager_lwfontmanager_registerallcustomlocalfonts",
+      "community": 3,
+      "norm_label": "-registerallcustomlocalfonts"
+    },
+    {
+      "label": ".font()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L129",
+      "id": "classes_lwfontmanager_lwfontmanager_font",
+      "community": 7,
+      "norm_label": ".font()"
+    },
+    {
+      "label": ".useFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L137",
+      "id": "classes_lwfontmanager_lwfontmanager_usefont",
+      "community": 7,
+      "norm_label": ".usefont()"
+    },
+    {
+      "label": ".downloadCustomFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L148",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "community": 7,
+      "norm_label": ".downloadcustomfont()"
+    },
+    {
+      "label": ".downloadAppleFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L163",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadapplefont",
+      "community": 3,
+      "norm_label": ".downloadapplefont()"
+    },
+    {
+      "label": ".existsCustomFontFile()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L178",
+      "id": "classes_lwfontmanager_lwfontmanager_existscustomfontfile",
+      "community": 7,
+      "norm_label": ".existscustomfontfile()"
+    },
+    {
+      "label": "-registerFont",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L277",
+      "id": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "community": 3,
+      "norm_label": "-registerfont"
+    },
+    {
+      "label": ".userAppleFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L254",
+      "id": "classes_lwfontmanager_lwfontmanager_userapplefont",
+      "community": 7,
+      "norm_label": ".userapplefont()"
+    },
+    {
+      "label": ".saveAppleFontPath()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L367",
+      "id": "classes_lwfontmanager_lwfontmanager_saveapplefontpath",
+      "community": 3,
+      "norm_label": ".saveapplefontpath()"
+    },
+    {
+      "label": "URLSessionDataDelegate",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "urlsessiondatadelegate",
+      "community": 0,
+      "norm_label": "urlsessiondatadelegate"
+    },
+    {
+      "label": ".urlSession()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L387",
+      "id": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "community": 3,
+      "norm_label": ".urlsession()"
+    },
+    {
+      "label": "UIFont+LWDynamicFont.swift",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L1",
+      "id": "lwdynamicfont_swift_classes_uifont_lwdynamicfont_swift",
+      "community": 2,
+      "norm_label": "uifont+lwdynamicfont.swift"
+    },
+    {
+      "label": "UIFont",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L13",
+      "id": "classes_uifont_lwdynamicfont_uifont",
+      "community": 2,
+      "norm_label": "uifont"
+    },
+    {
+      "label": ".dynamicFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L20",
+      "id": "classes_uifont_lwdynamicfont_uifont_dynamicfont",
+      "community": 2,
+      "norm_label": ".dynamicfont()"
+    },
+    {
+      "label": ".isDynamicFontAvailable()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L31",
+      "id": "classes_uifont_lwdynamicfont_uifont_isdynamicfontavailable",
+      "community": 2,
+      "norm_label": ".isdynamicfontavailable()"
+    },
+    {
+      "label": ".useDynamicFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L40",
+      "id": "classes_uifont_lwdynamicfont_uifont_usedynamicfont",
+      "community": 2,
+      "norm_label": ".usedynamicfont()"
+    },
+    {
+      "label": ".lwdf_swizzledFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L49",
+      "id": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzledfont",
+      "community": 2,
+      "norm_label": ".lwdf_swizzledfont()"
+    },
+    {
+      "label": ".lwdf_swizzleFontMethod()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L88",
+      "id": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzlefontmethod",
+      "community": 2,
+      "norm_label": ".lwdf_swizzlefontmethod()"
+    },
+    {
+      "label": ".lwdf_load()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L107",
+      "id": "classes_uifont_lwdynamicfont_uifont_lwdf_load",
+      "community": 2,
+      "norm_label": ".lwdf_load()"
+    },
+    {
+      "label": "DispatchQueue",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L116",
+      "id": "classes_uifont_lwdynamicfont_dispatchqueue",
+      "community": 2,
+      "norm_label": "dispatchqueue"
+    },
+    {
+      "label": ".once()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L121",
+      "id": "classes_uifont_lwdynamicfont_dispatchqueue_once",
+      "community": 2,
+      "norm_label": ".once()"
+    },
+    {
+      "label": ".enableDynamicFontSwizzling()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L140",
+      "id": "classes_uifont_lwdynamicfont_uifont_enabledynamicfontswizzling",
+      "community": 2,
+      "norm_label": ".enabledynamicfontswizzling()"
+    },
+    {
+      "label": "LWFontManager",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L148",
+      "id": "classes_uifont_lwdynamicfont_lwfontmanager",
+      "community": 2,
+      "norm_label": "lwfontmanager"
+    },
+    {
+      "label": "Font+LWDynamicFont.swift",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L1",
+      "id": "lwdynamicfont_swift_classes_font_lwdynamicfont_swift",
+      "community": 1,
+      "norm_label": "font+lwdynamicfont.swift"
+    },
+    {
+      "label": "Font",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L12",
+      "id": "classes_font_lwdynamicfont_font",
+      "community": 1,
+      "norm_label": "font"
+    },
+    {
+      "label": ".dynamicFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L20",
+      "id": "classes_font_lwdynamicfont_font_dynamicfont",
+      "community": 1,
+      "norm_label": ".dynamicfont()"
+    },
+    {
+      "label": "DynamicFontModifier",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L58",
+      "id": "classes_font_lwdynamicfont_dynamicfontmodifier",
+      "community": 1,
+      "norm_label": "dynamicfontmodifier"
+    },
+    {
+      "label": "ViewModifier",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "viewmodifier",
+      "community": 1,
+      "norm_label": "viewmodifier"
+    },
+    {
+      "label": ".body()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L63",
+      "id": "classes_font_lwdynamicfont_dynamicfontmodifier_body",
+      "community": 1,
+      "norm_label": ".body()"
+    },
+    {
+      "label": "View",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L69",
+      "id": "classes_font_lwdynamicfont_view",
+      "community": 1,
+      "norm_label": "view"
+    },
+    {
+      "label": ".dynamicFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L76",
+      "id": "classes_font_lwdynamicfont_view_dynamicfont",
+      "community": 1,
+      "norm_label": ".dynamicfont()"
+    },
+    {
+      "label": "FontDownloadObserver",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L83",
+      "id": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "community": 1,
+      "norm_label": "fontdownloadobserver"
+    },
+    {
+      "label": "ObservableObject",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "observableobject",
+      "community": 1,
+      "norm_label": "observableobject"
+    },
+    {
+      "label": ".init()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L90",
+      "id": "classes_font_lwdynamicfont_fontdownloadobserver_init",
+      "community": 1,
+      "norm_label": ".init()"
+    },
+    {
+      "label": ".downloadCustomFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L97",
+      "id": "classes_font_lwdynamicfont_fontdownloadobserver_downloadcustomfont",
+      "community": 1,
+      "norm_label": ".downloadcustomfont()"
+    },
+    {
+      "label": ".downloadAppleFont()",
+      "file_type": "code",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L119",
+      "id": "classes_font_lwdynamicfont_fontdownloadobserver_downloadapplefont",
+      "community": 1,
+      "norm_label": ".downloadapplefont()"
+    },
+    {
+      "label": "LWViewController.h",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.h",
+      "source_location": "L1",
+      "id": "example_lwdynamicfont_lwviewcontroller_h",
+      "community": 9,
+      "norm_label": "lwviewcontroller.h"
+    },
+    {
+      "label": "LWAppDelegate.h",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.h",
+      "source_location": "L1",
+      "id": "example_lwdynamicfont_lwappdelegate_h",
+      "community": 10,
+      "norm_label": "lwappdelegate.h"
+    },
+    {
+      "label": "main.m",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/main.m",
+      "source_location": "L1",
+      "id": "example_lwdynamicfont_main_m",
+      "community": 11,
+      "norm_label": "main.m"
+    },
+    {
+      "label": "LWAppDelegate.m",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L1",
+      "id": "example_lwdynamicfont_lwappdelegate_m",
+      "community": 6,
+      "norm_label": "lwappdelegate.m"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L11",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "community": 6,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-applicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L13",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "community": 6,
+      "norm_label": "-applicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "-applicationWillResignActive",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L18",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "community": 6,
+      "norm_label": "-applicationwillresignactive"
+    },
+    {
+      "label": "-applicationDidEnterBackground",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L23",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "community": 6,
+      "norm_label": "-applicationdidenterbackground"
+    },
+    {
+      "label": "-applicationWillEnterForeground",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L28",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "community": 6,
+      "norm_label": "-applicationwillenterforeground"
+    },
+    {
+      "label": "-applicationDidBecomeActive",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L32",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "community": 6,
+      "norm_label": "-applicationdidbecomeactive"
+    },
+    {
+      "label": "-applicationWillTerminate",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L36",
+      "id": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "community": 6,
+      "norm_label": "-applicationwillterminate"
+    },
+    {
+      "label": "LWViewController.m",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L1",
+      "id": "example_lwdynamicfont_lwviewcontroller_m",
+      "community": 4,
+      "norm_label": "lwviewcontroller.m"
+    },
+    {
+      "label": "LWViewController",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L14",
+      "id": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "community": 4,
+      "norm_label": "lwviewcontroller"
+    },
+    {
+      "label": "-viewDidLoad",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L26",
+      "id": "lwdynamicfont_lwviewcontroller_lwviewcontroller_viewdidload",
+      "community": 4,
+      "norm_label": "-viewdidload"
+    },
+    {
+      "label": "-loadFontWithFontNamecompleteBlock",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L45",
+      "id": "lwdynamicfont_lwviewcontroller_lwviewcontroller_loadfontwithfontnamecompleteblock",
+      "community": 4,
+      "norm_label": "-loadfontwithfontnamecompleteblock"
+    },
+    {
+      "label": "-btnAction",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L79",
+      "id": "lwdynamicfont_lwviewcontroller_lwviewcontroller_btnaction",
+      "community": 4,
+      "norm_label": "-btnaction"
+    },
+    {
+      "label": "-randomFontName",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L87",
+      "id": "lwdynamicfont_lwviewcontroller_lwviewcontroller_randomfontname",
+      "community": 4,
+      "norm_label": "-randomfontname"
+    },
+    {
+      "label": "LWAppDelegate",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L99",
+      "id": "lwdynamicfont_lwviewcontroller_lwappdelegate",
+      "community": 4,
+      "norm_label": "lwappdelegate"
+    },
+    {
+      "label": "-load",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L101",
+      "id": "lwdynamicfont_lwviewcontroller_lwappdelegate_load",
+      "community": 4,
+      "norm_label": "-load"
+    },
+    {
+      "label": "-myApplicationdidFinishLaunchingWithOptions",
+      "file_type": "code",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L108",
+      "id": "lwdynamicfont_lwviewcontroller_lwappdelegate_myapplicationdidfinishlaunchingwithoptions",
+      "community": 4,
+      "norm_label": "-myapplicationdidfinishlaunchingwithoptions"
+    },
+    {
+      "label": "LWFontManager.m",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L1",
+      "id": "lwdynamicfont_classes_lwfontmanager_m",
+      "community": 5,
+      "norm_label": "lwfontmanager.m"
+    },
+    {
+      "label": "-shareInstance",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L30",
+      "id": "classes_lwfontmanager_lwfontmanager_shareinstance",
+      "community": 0,
+      "norm_label": "-shareinstance"
+    },
+    {
+      "label": "-fontDirectoryPath",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L53",
+      "id": "classes_lwfontmanager_lwfontmanager_fontdirectorypath",
+      "community": 0,
+      "norm_label": "-fontdirectorypath"
+    },
+    {
+      "label": "-isAvaliableFont",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L67",
+      "id": "classes_lwfontmanager_lwfontmanager_isavaliablefont",
+      "community": 0,
+      "norm_label": "-isavaliablefont"
+    },
+    {
+      "label": "-removeFileWithFilePath",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L73",
+      "id": "classes_lwfontmanager_lwfontmanager_removefilewithfilepath",
+      "community": 0,
+      "norm_label": "-removefilewithfilepath"
+    },
+    {
+      "label": "-writeDatatoFilePath",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L84",
+      "id": "classes_lwfontmanager_lwfontmanager_writedatatofilepath",
+      "community": 0,
+      "norm_label": "-writedatatofilepath"
+    },
+    {
+      "label": "-createDirectoryIfNotExsitPath",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L97",
+      "id": "classes_lwfontmanager_lwfontmanager_createdirectoryifnotexsitpath",
+      "community": 0,
+      "norm_label": "-createdirectoryifnotexsitpath"
+    },
+    {
+      "label": "-exsitCustomFontFileWithFontName",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L113",
+      "id": "classes_lwfontmanager_lwfontmanager_exsitcustomfontfilewithfontname",
+      "community": 0,
+      "norm_label": "-exsitcustomfontfilewithfontname"
+    },
+    {
+      "label": "-fontWithFontNamesize",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L121",
+      "id": "classes_lwfontmanager_lwfontmanager_fontwithfontnamesize",
+      "community": 0,
+      "norm_label": "-fontwithfontnamesize"
+    },
+    {
+      "label": "-useFontNamesizeuseBlock",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L129",
+      "id": "classes_lwfontmanager_lwfontmanager_usefontnamesizeuseblock",
+      "community": 0,
+      "norm_label": "-usefontnamesizeuseblock"
+    },
+    {
+      "label": "-downloadCustomFontWithFontNameURLStringshowProgressBlockupdateProgressBlockcompleteBlock",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L148",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadcustomfontwithfontnameurlstringshowprogressblockupdateprogressblockcompleteblock",
+      "community": 0,
+      "norm_label": "-downloadcustomfontwithfontnameurlstringshowprogressblockupdateprogressblockcompleteblock"
+    },
+    {
+      "label": "-downloadCustomFontWithFontNameURLString",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L161",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadcustomfontwithfontnameurlstring",
+      "community": 0,
+      "norm_label": "-downloadcustomfontwithfontnameurlstring"
+    },
+    {
+      "label": "-URLSessiondataTaskdidReceiveResponsecompletionHandler",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L214",
+      "id": "classes_lwfontmanager_lwfontmanager_urlsessiondatataskdidreceiveresponsecompletionhandler",
+      "community": 0,
+      "norm_label": "-urlsessiondatataskdidreceiveresponsecompletionhandler"
+    },
+    {
+      "label": "-URLSessiondataTaskdidReceiveData",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L231",
+      "id": "classes_lwfontmanager_lwfontmanager_urlsessiondatataskdidreceivedata",
+      "community": 0,
+      "norm_label": "-urlsessiondatataskdidreceivedata"
+    },
+    {
+      "label": "-URLSessiontaskdidCompleteWithError",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L254",
+      "id": "classes_lwfontmanager_lwfontmanager_urlsessiontaskdidcompletewitherror",
+      "community": 0,
+      "norm_label": "-urlsessiontaskdidcompletewitherror"
+    },
+    {
+      "label": "-userApppleFontWithFontNamesizematchedFontBlock",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L332",
+      "id": "classes_lwfontmanager_lwfontmanager_userappplefontwithfontnamesizematchedfontblock",
+      "community": 0,
+      "norm_label": "-userappplefontwithfontnamesizematchedfontblock"
+    },
+    {
+      "label": "-downloadAppleFontWithFvoidontNameshowProgressBlockupdateProgressBlockcompleteBlock",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L376",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadapplefontwithfvoidontnameshowprogressblockupdateprogressblockcompleteblock",
+      "community": 0,
+      "norm_label": "-downloadapplefontwithfvoidontnameshowprogressblockupdateprogressblockcompleteblock"
+    },
+    {
+      "label": "-downloadAppleFontWithFontName",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L389",
+      "id": "classes_lwfontmanager_lwfontmanager_downloadapplefontwithfontname",
+      "community": 0,
+      "norm_label": "-downloadapplefontwithfontname"
+    },
+    {
+      "label": "-saveAppleFontPathWithFontName",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L503",
+      "id": "classes_lwfontmanager_lwfontmanager_saveapplefontpathwithfontname",
+      "community": 0,
+      "norm_label": "-saveapplefontpathwithfontname"
+    },
+    {
+      "label": "LWFontDownloadTask",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L527",
+      "id": "classes_lwfontmanager_lwfontdownloadtask",
+      "community": 5,
+      "norm_label": "lwfontdownloadtask"
+    },
+    {
+      "label": "-taskWithIdentifierfontNamedataTask",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L529",
+      "id": "classes_lwfontmanager_lwfontdownloadtask_taskwithidentifierfontnamedatatask",
+      "community": 5,
+      "norm_label": "-taskwithidentifierfontnamedatatask"
+    },
+    {
+      "label": "UIFont",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L544",
+      "id": "classes_lwfontmanager_uifont",
+      "community": 5,
+      "norm_label": "uifont"
+    },
+    {
+      "label": "-load",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L546",
+      "id": "classes_lwfontmanager_uifont_load",
+      "community": 5,
+      "norm_label": "-load"
+    },
+    {
+      "label": "-myFontWithNamesize",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L553",
+      "id": "classes_lwfontmanager_uifont_myfontwithnamesize",
+      "community": 5,
+      "norm_label": "-myfontwithnamesize"
+    },
+    {
+      "label": "NSObject",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L582",
+      "id": "classes_lwfontmanager_nsobject",
+      "community": 5,
+      "norm_label": "nsobject"
+    },
+    {
+      "label": "-lwdf_swizzleMethodwithMethod",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L584",
+      "id": "classes_lwfontmanager_nsobject_lwdf_swizzlemethodwithmethod",
+      "community": 5,
+      "norm_label": "-lwdf_swizzlemethodwithmethod"
+    },
+    {
+      "label": "-lwdf_swizzleClassMethodwithMethod",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L596",
+      "id": "classes_lwfontmanager_nsobject_lwdf_swizzleclassmethodwithmethod",
+      "community": 5,
+      "norm_label": "-lwdf_swizzleclassmethodwithmethod"
+    },
+    {
+      "label": "LWFontManager.h",
+      "file_type": "code",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.h",
+      "source_location": "L1",
+      "id": "lwdynamicfont_classes_lwfontmanager_h",
+      "community": 12,
+      "norm_label": "lwfontmanager.h"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_lwfontdownloadtask_swift",
+      "target": "classes_lwfontdownloadtask_lwfontdownloadtask",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "classes_lwfontdownloadtask_lwfontdownloadtask",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontDownloadTask.swift",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "classes_lwfontdownloadtask_lwfontdownloadtask",
+      "target": "classes_lwfontdownloadtask_lwfontdownloadtask_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_lwfontmanager_swift",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L385",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_lwfontmanager_swift",
+      "target": "classes_lwfontmanager_lwfontmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_removefile",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_writedata",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_createdirectory",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L247",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L313",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadapplefont",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L371",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_saveapplefontpath",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L393",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "target": "classes_lwfontmanager_lwflog",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_isavailable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L75",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_removefile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_writedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_createdirectory",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L306",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_registerallcustomlocalfonts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_font",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_usefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L184",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L288",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadapplefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_existscustomfontfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L277",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_userapplefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L367",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_saveapplefontpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L385",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "urlsessiondatadelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L432",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "lwdynamicfont_classes_lwfontmanager_m",
+      "target": "classes_lwfontmanager_lwfontmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_shareinstance",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_fontdirectorypath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_isavaliablefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_removefilewithfilepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_writedatatofilepath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_createdirectoryifnotexsitpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L113",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_exsitcustomfontfilewithfontname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_fontwithfontnamesize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_usefontnamesizeuseblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadcustomfontwithfontnameurlstringshowprogressblockupdateprogressblockcompleteblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadcustomfontwithfontnameurlstring",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_urlsessiondatataskdidreceiveresponsecompletionhandler",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L231",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_urlsessiondatataskdidreceivedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_urlsessiontaskdidcompletewitherror",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L332",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_userappplefontwithfontnamesizematchedfontblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L376",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadapplefontwithfvoidontnameshowprogressblockupdateprogressblockcompleteblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L389",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_downloadapplefontwithfontname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L503",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager",
+      "target": "classes_lwfontmanager_lwfontmanager_saveapplefontpathwithfontname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_font",
+      "target": "classes_lwfontmanager_lwfontmanager_isavailable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L186",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "target": "classes_lwfontmanager_lwfontmanager_isavailable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L290",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadapplefont",
+      "target": "classes_lwfontmanager_lwfontmanager_isavailable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L239",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "target": "classes_lwfontmanager_lwfontmanager_removefile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L440",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "target": "classes_lwfontmanager_lwfontmanager_writedata",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L123",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_registerallcustomlocalfonts",
+      "target": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_usefont",
+      "target": "classes_lwfontmanager_lwfontmanager_font",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_usefont",
+      "target": "classes_lwfontmanager_lwfontmanager_userapplefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L193",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "target": "classes_lwfontmanager_lwfontmanager_existscustomfontfile",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "target": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadcustomfont",
+      "target": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L322",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_downloadapplefont",
+      "target": "classes_lwfontmanager_lwfontmanager_saveapplefontpath",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/LWFontManager.swift",
+      "source_location": "L443",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontmanager_urlsession",
+      "target": "classes_lwfontmanager_lwfontmanager_registerfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L136",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_uifont_lwdynamicfont_swift",
+      "target": "classes_uifont_lwdynamicfont_uifont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_uifont_lwdynamicfont_swift",
+      "target": "classes_uifont_lwdynamicfont_dispatchqueue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_uifont_lwdynamicfont_swift",
+      "target": "classes_uifont_lwdynamicfont_lwfontmanager",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_dynamicfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_isdynamicfontavailable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_usedynamicfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzledfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzlefontmethod",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L140",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont",
+      "target": "classes_uifont_lwdynamicfont_uifont_enabledynamicfontswizzling",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzlefontmethod",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzledfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L109",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont_lwdf_load",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_swizzlefontmethod",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont_lwdf_load",
+      "target": "classes_uifont_lwdynamicfont_dispatchqueue_once",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L141",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_uifont_enabledynamicfontswizzling",
+      "target": "classes_uifont_lwdynamicfont_uifont_lwdf_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/UIFont+LWDynamicFont.swift",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "classes_uifont_lwdynamicfont_dispatchqueue",
+      "target": "classes_uifont_lwdynamicfont_dispatchqueue_once",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_font_lwdynamicfont_swift",
+      "target": "classes_font_lwdynamicfont_font",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_font_lwdynamicfont_swift",
+      "target": "classes_font_lwdynamicfont_dynamicfontmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_font_lwdynamicfont_swift",
+      "target": "classes_font_lwdynamicfont_view",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "lwdynamicfont_swift_classes_font_lwdynamicfont_swift",
+      "target": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_font",
+      "target": "classes_font_lwdynamicfont_font_dynamicfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_dynamicfontmodifier_body",
+      "target": "classes_font_lwdynamicfont_font",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_dynamicfontmodifier",
+      "target": "viewmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_dynamicfontmodifier",
+      "target": "classes_font_lwdynamicfont_dynamicfontmodifier_body",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_view_dynamicfont",
+      "target": "classes_font_lwdynamicfont_dynamicfontmodifier",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_view",
+      "target": "classes_font_lwdynamicfont_view_dynamicfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "target": "observableobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "target": "classes_font_lwdynamicfont_fontdownloadobserver_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "target": "classes_font_lwdynamicfont_fontdownloadobserver_downloadcustomfont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont_swift/Classes/Font+LWDynamicFont.swift",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "classes_font_lwdynamicfont_fontdownloadobserver",
+      "target": "classes_font_lwdynamicfont_fontdownloadobserver_downloadapplefont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "example_lwdynamicfont_lwappdelegate_m",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillresignactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidenterbackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillenterforeground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationdidbecomeactive",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWAppDelegate.m",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwappdelegate_lwappdelegate",
+      "target": "lwdynamicfont_lwappdelegate_lwappdelegate_applicationwillterminate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "example_lwdynamicfont_lwviewcontroller_m",
+      "target": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "example_lwdynamicfont_lwviewcontroller_m",
+      "target": "lwdynamicfont_lwviewcontroller_lwappdelegate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "target": "lwdynamicfont_lwviewcontroller_lwviewcontroller_viewdidload",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "target": "lwdynamicfont_lwviewcontroller_lwviewcontroller_loadfontwithfontnamecompleteblock",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "target": "lwdynamicfont_lwviewcontroller_lwviewcontroller_btnaction",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwviewcontroller",
+      "target": "lwdynamicfont_lwviewcontroller_lwviewcontroller_randomfontname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwappdelegate",
+      "target": "lwdynamicfont_lwviewcontroller_lwappdelegate_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "Example/LWDynamicFont/LWViewController.m",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "lwdynamicfont_lwviewcontroller_lwappdelegate",
+      "target": "lwdynamicfont_lwviewcontroller_lwappdelegate_myapplicationdidfinishlaunchingwithoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L527",
+      "weight": 1.0,
+      "source": "lwdynamicfont_classes_lwfontmanager_m",
+      "target": "classes_lwfontmanager_lwfontdownloadtask",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L544",
+      "weight": 1.0,
+      "source": "lwdynamicfont_classes_lwfontmanager_m",
+      "target": "classes_lwfontmanager_uifont",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L582",
+      "weight": 1.0,
+      "source": "lwdynamicfont_classes_lwfontmanager_m",
+      "target": "classes_lwfontmanager_nsobject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L529",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_lwfontdownloadtask",
+      "target": "classes_lwfontmanager_lwfontdownloadtask_taskwithidentifierfontnamedatatask",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L546",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_uifont",
+      "target": "classes_lwfontmanager_uifont_load",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L553",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_uifont",
+      "target": "classes_lwfontmanager_uifont_myfontwithnamesize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L584",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_nsobject",
+      "target": "classes_lwfontmanager_nsobject_lwdf_swizzlemethodwithmethod",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "LWDynamicFont/Classes/LWFontManager.m",
+      "source_location": "L596",
+      "weight": 1.0,
+      "source": "classes_lwfontmanager_nsobject",
+      "target": "classes_lwfontmanager_nsobject_lwdf_swizzleclassmethodwithmethod",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
