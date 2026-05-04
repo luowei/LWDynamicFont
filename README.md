@@ -1,5 +1,12 @@
 # LWDynamicFont
 
+
+## graphify Knowledge Graph
+
+- Interactive graph: https://luowei.github.io/LWDynamicFont/
+- Report: https://luowei.github.io/LWDynamicFont/GRAPH_REPORT.md
+- Graph data: https://luowei.github.io/LWDynamicFont/graph.json
+
 [![CI Status](https://img.shields.io/travis/luowei/LWDynamicFont.svg?style=flat)](https://travis-ci.org/luowei/LWDynamicFont)
 [![Version](https://img.shields.io/cocoapods/v/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
 [![License](https://img.shields.io/cocoapods/l/LWDynamicFont.svg?style=flat)](https://cocoapods.org/pods/LWDynamicFont)
